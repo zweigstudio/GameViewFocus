@@ -1,4 +1,4 @@
-namespace GameViewFocus
+namespace ZweigStudio.GameViewFocus
 {
     using UnityEngine;
     using UnityEditor;
@@ -11,8 +11,8 @@ namespace GameViewFocus
     {
         #region StaticStrings
 
-        internal static string Version => "1.1.0";
-        internal static string CommitDate => "January 2, 2024";
+        internal static string Version => "1.2.1";
+        internal static string CommitDate => "January 13, 2025";
 
         #endregion
 

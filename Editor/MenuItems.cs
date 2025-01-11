@@ -1,6 +1,6 @@
-using GameViewFocus.Editor;
+using ZweigStudio.GameViewFocus.Editor;
 
-namespace GameViewFocus
+namespace ZweigStudio.GameViewFocus
 {
     using UnityEditor;
 

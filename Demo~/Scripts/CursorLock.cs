@@ -1,4 +1,4 @@
-namespace GameViewFocus.Demo
+namespace ZweigStudio.GameViewFocus.Demo
 {
     using UnityEngine;
 
